@@ -5,8 +5,8 @@
 #### Display Images
 
 ### Retro
-![withimg](screenshots/retro.png)
-![withimg](screenshots/retro.gif)
+![withimg](screenshots/Retro.png)
+![withimg](screenshots/Retro.gif)
 
 
 ## More
