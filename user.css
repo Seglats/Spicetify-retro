@@ -62,7 +62,7 @@
     --border-style: solid; /* dotted | dashed | solid | double | groove | ridge | inset | outset */
     --border-transition: 0.2s ease; /* 'none' to disable  */
 
-    --global-nav-margin-top: 40px; /* set to '0px' if you disabled window controls */
+    --global-nav-margin-top: 40px; /* set to '0px' if you disabled window controls */;
 }
 
 /* font */
@@ -734,8 +734,16 @@ div.main-nowPlayingView-section:has(> div.main-nowPlayingView-sectionHeader) {
     opacity: 0.7;
     transition: none;
 }
+/*
+
+
+Changes
+
+
+
+*/
 .lyrics-lyricsContent-lyric.lyrics-lyricsContent-active:not(:empty) {
-    background-color: var(--lyrics-color-background);
+    background-color: white; 
     color: var(--spice-text);
     opacity: 1;
     transition: none;
