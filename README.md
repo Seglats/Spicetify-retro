@@ -7,7 +7,7 @@
 ### Retro
 <picture>
   <source srcset="screenshots/Retro.gif" type="image/gif">
-  <img src="screenshots/Retro.png" alt="withimg">
+  <img src="screenshots/Retro.png" alt="Retro-IMG">
 </picture>
 
 
