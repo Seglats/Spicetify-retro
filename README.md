@@ -5,8 +5,10 @@
 #### Display Images
 
 ### Retro
-![withimg](screenshots/Retro.png)
-![withimg](screenshots/Retro.gif)
+<picture>
+  <source srcset="screenshots/Retro.gif" type="image/gif">
+  <img src="screenshots/Retro.png" alt="withimg">
+</picture>
 
 
 ## More
