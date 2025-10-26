@@ -1036,3 +1036,6 @@ div:has(> button[aria-label="Switch to video"]) {
     fill: var(--spice-accent-active);
 }
 
+.main-shelf-shelf {
+    display: none;
+}
