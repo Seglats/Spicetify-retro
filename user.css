@@ -293,6 +293,9 @@ div[class*="minBlockSize_56px-padding_8px"] {
     background-color: transparent !important;
     background-image: none;
 }
+/*
+ - Custom ??
+*/
 .progress-bar {
     --fg-color: var(--spice-button-disabled);
     --bg-color: var(--spice-button-disabled);
@@ -801,6 +804,13 @@ Changes
 }
 
 /* playback seek bar */
+
+.x-progressBar-sliderArea{
+    --fg-color:white !important;
+}
+
+
+
 .playback-progressbar-container {
     position: absolute;
     width: 100%;
