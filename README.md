@@ -1,4 +1,4 @@
-# text
+# RetroTheme based on text
 
 ## Screenshots
 
