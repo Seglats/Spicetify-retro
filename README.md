@@ -23,7 +23,6 @@ Insperation was from [poolsuite](https://poolsuite.net/)
 
 The base of the theme was taken from [spectify-text](https://github.com/spicetify/spicetify-themes/tree/master/text) and made by [darkthemer](https://github.com/darkthemer/)
 
-
 The rotating vinyl was inspired from [Turntables](https://github.com/spicetify/spicetify-themes/tree/master/Turntable)
 
 ### Installation
