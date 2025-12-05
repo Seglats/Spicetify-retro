@@ -1,5 +1,7 @@
 # RetroTheme based on text
 
+## Will update it and fix bugs soon found a few visual ones, however have a lot of work till january so most likely will start fixing this in mid of january
+
 ## Screenshots
 
 #### Display Images
